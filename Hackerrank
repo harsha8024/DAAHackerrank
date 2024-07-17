@@ -1,10 +1,11 @@
+#STRING CONSTRUCTION
 import math
 import os
 import random
 import re
 import sys
 
-#STRING CONSTRUCTION
+
 # Complete the 'stringConstruction' function below.
 #
 # The function is expected to return an INTEGER.
@@ -36,7 +37,7 @@ if __name__ == '__main__':
     fptr.close()
 
 ------------------------------------------------
-QUICKSORT 
+#QUICKSORT 
 
 import math
 import os
@@ -95,7 +96,7 @@ if __name__ == '__main__':
     fptr.close()
 
 -------------------------------------------------
-UNBOUNDED KNAPSACK
+#UNBOUNDED KNAPSACK
 import math
 import os
 import random
